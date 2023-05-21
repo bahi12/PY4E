@@ -1,0 +1,120 @@
+From: joey@example.com
+To: sarah@example.com
+Subject: Dinner tonight
+
+Hey Sarah,
+
+How about dinner tonight at that new sushi place downtown?
+
+Joey
+
+---
+
+From: amy@example.com
+To: brian@example.com
+Subject: Meeting tomorrow
+
+Hi Brian,
+
+Just wanted to remind you that we have a meeting tomorrow at 10am in conference room B.
+
+Thanks,
+Amy
+
+---
+
+From: jack@example.com
+To: susan@example.com
+Subject: Party next week
+
+Susan,
+
+Don't forget, we're having a party next week at my place. Bring your favorite drink!
+
+Jack
+
+---
+
+From: david@example.com
+To: jennifer@example.com
+Subject: Happy Birthday!
+
+Jennifer,
+
+Just wanted to wish you a happy birthday! Hope you have a great day.
+
+David
+
+---
+
+From: jenny@example.com
+To: michael@example.com
+Subject: Project update
+
+Hi Michael,
+
+Just wanted to give you a quick update on the project. We're still on track to meet the deadline.
+
+Thanks,
+Jenny
+
+---
+
+From: matt@example.com
+To: lisa@example.com
+Subject: Lunch next week
+
+Hey Lisa,
+
+Want to grab lunch next week at that new Italian place on Main Street?
+
+Matt
+
+---
+
+From: kate@example.com
+To: george@example.com
+Subject: Re: Question about project
+
+George,
+
+Thanks for getting back to me. To answer your question, I think we should go with option B.
+
+Kate
+
+---
+
+From: tom@example.com
+To: emily@example.com
+Subject: Movie tonight?
+
+Hey Emily,
+
+Want to catch that new action movie tonight?
+
+Tom
+
+---
+
+From: kelly@example.com
+To: chris@example.com
+Subject: Reminder: dentist appointment
+
+Hi Chris,
+
+Just a friendly reminder that you have a dentist appointment tomorrow at 2pm.
+
+Thanks,
+Kelly
+
+---
+
+From: mark@example.com
+To: linda@example.com
+Subject: Book club meeting
+
+Linda,
+
+Just wanted to remind you that we have a book club meeting next week. The book is "The Great Gatsby."
+
+Mark
