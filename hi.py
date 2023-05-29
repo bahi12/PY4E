@@ -1,15 +1,6 @@
-while True:
-    try:
-        hrs = input("Enter Hours:")
-        h = float(hrs)
-        rate = input("Enter Rate:")
-        r = float(rate)
-        break
-    except ValueError:
-        print('You should enter a number!')
+import socket
+mysocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+mysocket.connect(('data.pr4e.org', 80))
 
-if h <= 40:
-    gpay = h * r
-else:
-    gpay = (40 * r) + ((h - 40) * (1.5 * r))
-print(gpay)
+
+print(mysocket)
