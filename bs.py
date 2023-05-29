@@ -17,7 +17,21 @@ url = input('Enter - ')
 html = urllib.request.urlopen(url, context=ctx).read()
 soup = BeautifulSoup(html, 'html.parser')
 
+# Retrieve all of the anchor tags span
+tags = soup('span')
+total = 0
+if tags:
+    for tag in tags:
+        numbers = tag.contents[0]
+        total = total + int(numbers)
+print('The total is:', int(total))
+
+
 # Retrieve all of the anchor tags
 tags = soup('a')
 for tag in tags:
-    print(tag.get('href', None))
+    # Look at the parts of a tag
+    print('TAG:', tag)
+    print('URL:', tag.get('href', None))
+    print('Contents:', tag.contents[0])
+    print('Attrs:', tag.attrs)
