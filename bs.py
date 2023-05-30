@@ -24,14 +24,14 @@ if tags:
     for tag in tags:
         numbers = tag.contents[0]
         total = total + int(numbers)
-print('The total is:', int(total))
 
 
+count = int(input('Enter count: '))
 # Retrieve all of the anchor tags
 tags = soup('a')
-for tag in tags:
+for tag in tags in range(count):
     # Look at the parts of a tag
-    print('TAG:', tag)
+    # print('TAG:', tag)
     print('URL:', tag.get('href', None))
-    print('Contents:', tag.contents[0])
-    print('Attrs:', tag.attrs)
+    # print('Contents:', tag.contents[0])
+    # print('Attrs:', tag.attrs)
